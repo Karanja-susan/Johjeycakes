@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9e481c69-7128-4726-bbd4-7ee72a757368" name="Changes" comment="" />
+    <list default="true" id="9e481c69-7128-4726-bbd4-7ee72a757368" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -26,10 +29,11 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;JavaScript Debug.index.html.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Lenovo/Desktop/Mom-and-Pops-Bakery&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Lenovo/OneDrive/Desktop/Mom-and-Pops-Bakery&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -56,7 +60,15 @@
       <workItem from="1706091037116" duration="136000" />
       <workItem from="1706091259435" duration="2162000" />
       <workItem from="1706093607360" duration="135000" />
-      <workItem from="1706170018717" duration="7773000" />
+      <workItem from="1706170018717" duration="8682000" />
+      <workItem from="1706186061570" duration="1109000" />
+      <workItem from="1706251346307" duration="103000" />
+      <workItem from="1706264435573" duration="414000" />
+      <workItem from="1706476890285" duration="11000" />
+      <workItem from="1706526003377" duration="26000" />
+      <workItem from="1707556132542" duration="940000" />
+      <workItem from="1707734138973" duration="6000" />
+      <workItem from="1707734179016" duration="5000" />
     </task>
     <servers />
   </component>
